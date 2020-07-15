@@ -32,6 +32,10 @@ public class MainActivity extends AppCompatActivity {
         lstImage.add(R.drawable.pic2);
         lstImage.add(R.drawable.pic3);
         lstImage.add(R.drawable.pic4);
+        lstImage.add(R.drawable.pic5);
+        lstImage.add(R.drawable.pic6);
+        lstImage.add(R.drawable.pic7);
+        lstImage.add(R.drawable.pic8);
 
     }
 }
